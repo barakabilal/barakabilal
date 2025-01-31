@@ -40,7 +40,6 @@ I am a **Full-stack Developer** specializing in **React, Node.js, MongoDB**, and
 - 📧 Email: [bilalbaraka49@gmail.com](mailto:bilalbaraka49@gmail.com)
 - 🌐 LinkedIn: [linkedin.com/in/bilalbaraka2](https://linkedin.com/in/bilalbaraka2)
 - 📱 Phone: +212717389630
-- 💻 GitHub: [github.com/barakabilal](https://github.com/barakabilal)
 
 ## 🏆 Extra-Curricular Activities
 - **Active Member** of the **Enactus Club**, participating in innovative projects as a developer.
