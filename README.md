@@ -35,7 +35,6 @@ I am a **Full-stack Developer** specializing in **React, Node.js, MongoDB**, and
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-### Soft Skills
 ## 📞 Contact
 
 - 📧 Email: [bilalbaraka49@gmail.com](mailto:bilalbaraka49@gmail.com)
